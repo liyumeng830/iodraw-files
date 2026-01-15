@@ -100,8 +100,14 @@
             <mxPoint x="490" y="235.28571428571422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Uu-rM-TbVONq1fBVxd0o-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uu-rM-TbVONq1fBVxd0o-22" target="Uu-rM-TbVONq1fBVxd0o-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uu-rM-TbVONq1fBVxd0o-22" value="成功登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu-rM-TbVONq1fBVxd0o-25" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="205" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
