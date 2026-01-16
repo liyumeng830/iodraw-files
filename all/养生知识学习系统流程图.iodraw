@@ -47,11 +47,20 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-3" value="搜索产品" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="193.75" y="320" width="82.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="LEPOZYt06eazWOH28EFG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-5" target="LEPOZYt06eazWOH28EFG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-5" value="显示搜索结果" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="193.75" y="370" width="82.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="LEPOZYt06eazWOH28EFG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-7" target="LEPOZYt06eazWOH28EFG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-7" value="显示产品信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="324" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LEPOZYt06eazWOH28EFG-10" value="显示搜索结果" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="430" width="82.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
