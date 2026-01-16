@@ -147,13 +147,21 @@
           <mxGeometry x="566.25" y="340" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-B6hB2TvIBE-n7B9kDf-32" target="w-B6hB2TvIBE-n7B9kDf-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="608" y="530" />
+              <mxPoint x="368" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-32" value="价格更新" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="568.75" y="420" width="77.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="378" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-B6hB2TvIBE-n7B9kDf-36" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="332.75" y="600" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
