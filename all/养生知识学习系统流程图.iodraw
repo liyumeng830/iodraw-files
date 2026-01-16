@@ -59,8 +59,8 @@
         <mxCell id="TSCbUPrruBO4KZXD78Rd-24" value="选择具体知识信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="121.25" y="370" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="TSCbUPrruBO4KZXD78Rd-27" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="131.25" y="447.5" width="80" height="32.5" as="geometry" />
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-27" value="查看关联产品" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="131.25" y="430" width="88.75" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
