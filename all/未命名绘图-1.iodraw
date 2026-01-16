@@ -188,8 +188,14 @@
         <mxCell id="Wsvt37whEmCiUzmwhk67-0" value="开始" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="400" width="75" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Wsvt37whEmCiUzmwhk67-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wsvt37whEmCiUzmwhk67-1" target="Wsvt37whEmCiUzmwhk67-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wsvt37whEmCiUzmwhk67-1" value="养生知识学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="102.5" y="450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wsvt37whEmCiUzmwhk67-3" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="102.5" y="535" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
