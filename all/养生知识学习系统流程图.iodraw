@@ -21,14 +21,13 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="LEPOZYt06eazWOH28EFG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LEPOZYt06eazWOH28EFG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="选择商品管理" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="185" y="240" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="管理现有商品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="290" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-2" value="进入商家管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="170" width="80" height="30" as="geometry" />
@@ -60,6 +59,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="490" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w-B6hB2TvIBE-n7B9kDf-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
