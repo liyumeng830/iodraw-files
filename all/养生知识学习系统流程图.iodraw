@@ -69,16 +69,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-13" value="加入购物车" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="430" width="82.5" height="20" as="geometry" />
+          <mxGeometry x="390" y="430" width="82.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-15" target="LEPOZYt06eazWOH28EFG-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-15" value="跳转购物车页面" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="430" width="102.5" height="20" as="geometry" />
+          <mxGeometry x="520" y="430" width="102.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LEPOZYt06eazWOH28EFG-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-22" target="LEPOZYt06eazWOH28EFG-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-22" value="订单结算" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="430" width="102.5" height="20" as="geometry" />
+          <mxGeometry x="650" y="430" width="102.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LEPOZYt06eazWOH28EFG-26" value="订单结算" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="530" width="102.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
