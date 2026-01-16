@@ -27,16 +27,6 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="选择商品管理" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="185" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="管理现有商品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="290" width="90" height="20" as="geometry" />
         </mxCell>
@@ -46,27 +36,10 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-3" value="上下架新商品" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="300" width="82.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LEPOZYt06eazWOH28EFG-10" edge="1">
+        <mxCell id="LEPOZYt06eazWOH28EFG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LEPOZYt06eazWOH28EFG-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="235.0999999999999" y="380" as="sourcePoint" />
+            <mxPoint x="472.5" y="440" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LEPOZYt06eazWOH28EFG-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="380" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-10" target="LEPOZYt06eazWOH28EFG-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-10" value="产品详情" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="260" y="430" width="82.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-13" target="LEPOZYt06eazWOH28EFG-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-13" value="加入购物车" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="430" width="82.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-15" target="LEPOZYt06eazWOH28EFG-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
