@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNDTiQ_nLUw2H_zx3qN8-9" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yNDTiQ_nLUw2H_zx3qN8-9" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="170" width="25" height="80" as="geometry" />
         </mxCell>
       </root>
