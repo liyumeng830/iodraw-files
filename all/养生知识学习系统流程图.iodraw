@@ -102,8 +102,8 @@
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-12" value="修改信息" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="206.25" y="462.5" width="78.75" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="w-B6hB2TvIBE-n7B9kDf-15" value="商品发布" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="105.63" y="625" width="71.25" height="25" as="geometry" />
+        <mxCell id="w-B6hB2TvIBE-n7B9kDf-15" value="操作完成" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="572" width="71.25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
