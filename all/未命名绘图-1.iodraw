@@ -216,7 +216,7 @@
         <mxCell id="Wsvt37whEmCiUzmwhk67-8" value="显示搜索结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="42.5" y="680" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wsvt37whEmCiUzmwhk67-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Wsvt37whEmCiUzmwhk67-11" value="药材分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="590" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
