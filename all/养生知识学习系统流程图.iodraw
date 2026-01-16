@@ -54,7 +54,7 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-7" target="LEPOZYt06eazWOH28EFG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-7" value="显示产品信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="LEPOZYt06eazWOH28EFG-7" value="修改产品信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="324" y="360" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-10" target="LEPOZYt06eazWOH28EFG-13" edge="1">
