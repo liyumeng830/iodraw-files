@@ -35,7 +35,7 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-2" value="进入产品列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="170" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-3" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LEPOZYt06eazWOH28EFG-3" value="搜索产品" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="187.5" y="310" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
