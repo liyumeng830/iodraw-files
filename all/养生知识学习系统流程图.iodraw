@@ -147,7 +147,10 @@
           <mxGeometry x="566.25" y="340" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="547.5" y="435" width="120" height="60" as="geometry" />
+          <mxGeometry x="568.75" y="420" width="77.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w-B6hB2TvIBE-n7B9kDf-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="378" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
