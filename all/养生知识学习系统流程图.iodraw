@@ -66,8 +66,14 @@
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-2" value="管理现有商品" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="290" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w-B6hB2TvIBE-n7B9kDf-3" value="新商品信息上传" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="86.25" y="340" width="110" height="20" as="geometry" />
+        <mxCell id="w-B6hB2TvIBE-n7B9kDf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-B6hB2TvIBE-n7B9kDf-3" target="w-B6hB2TvIBE-n7B9kDf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-B6hB2TvIBE-n7B9kDf-3" value="商品信息上传" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="93.13" y="340" width="96.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w-B6hB2TvIBE-n7B9kDf-5" value="商品信息上传" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="93.13" y="440" width="96.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
