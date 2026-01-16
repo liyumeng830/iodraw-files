@@ -27,9 +27,12 @@
         </mxCell>
         <mxCell id="yNDTiQ_nLUw2H_zx3qN8-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399.5" y="100" as="sourcePoint" />
-            <mxPoint x="399.5" y="80" as="targetPoint" />
+            <mxPoint x="394.5" y="100" as="sourcePoint" />
+            <mxPoint x="394.5" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yNDTiQ_nLUw2H_zx3qN8-12" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
