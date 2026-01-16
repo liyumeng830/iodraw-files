@@ -39,17 +39,18 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-2" value="进入商家管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="170" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-3" target="LEPOZYt06eazWOH28EFG-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LEPOZYt06eazWOH28EFG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235.0999999999999" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-3" value="上下架新商品" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="193.75" y="310" width="82.5" height="20" as="geometry" />
+          <mxGeometry x="60" y="290" width="82.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-5" target="LEPOZYt06eazWOH28EFG-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-5" value="显示搜索结果" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="193.75" y="360" width="82.5" height="20" as="geometry" />
+        <mxCell id="LEPOZYt06eazWOH28EFG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LEPOZYt06eazWOH28EFG-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235.0999999999999" y="380" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-7" target="LEPOZYt06eazWOH28EFG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
