@@ -21,7 +21,7 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="LEPOZYt06eazWOH28EFG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+        <mxCell id="LEPOZYt06eazWOH28EFG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="w-B6hB2TvIBE-n7B9kDf-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335" y="290" as="targetPoint" />
           </mxGeometry>
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
