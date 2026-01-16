@@ -89,8 +89,8 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-32" value="填写收货地址" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="480" width="102.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-34" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="480" width="80" height="30" as="geometry" />
+        <mxCell id="LEPOZYt06eazWOH28EFG-34" value="支付成功" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="542.5" y="475" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
