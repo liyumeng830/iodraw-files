@@ -7,6 +7,9 @@
         <mxCell id="yNDTiQ_nLUw2H_zx3qN8-2" value="药食同源养生知识科普及产品订购系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="10" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yNDTiQ_nLUw2H_zx3qN8-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNDTiQ_nLUw2H_zx3qN8-3" target="yNDTiQ_nLUw2H_zx3qN8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yNDTiQ_nLUw2H_zx3qN8-3" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="120" width="90" height="20" as="geometry" />
         </mxCell>
@@ -16,8 +19,12 @@
             <mxPoint x="440" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="80" />
+              <mxPoint x="394" y="80" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yNDTiQ_nLUw2H_zx3qN8-9" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="220" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
