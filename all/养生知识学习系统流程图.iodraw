@@ -83,8 +83,14 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-22" value="订单结算" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="430" width="102.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-28" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LEPOZYt06eazWOH28EFG-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-28" target="LEPOZYt06eazWOH28EFG-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LEPOZYt06eazWOH28EFG-28" value="支付成功" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="661.25" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LEPOZYt06eazWOH28EFG-30" value="支付成功" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="501.25" y="480" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
