@@ -4,29 +4,57 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TSCbUPrruBO4KZXD78Rd-1" value="开始" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="40" width="75" height="20" as="geometry" />
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TSCbUPrruBO4KZXD78Rd-10" target="TSCbUPrruBO4KZXD78Rd-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSCbUPrruBO4KZXD78Rd-2" value="养生知识学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131.25" y="90" width="80" height="30" as="geometry" />
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-10" value="开始" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="40" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TSCbUPrruBO4KZXD78Rd-3" value="学习方式" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="135" y="180" width="72.5" height="35" as="geometry" />
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TSCbUPrruBO4KZXD78Rd-12" target="TSCbUPrruBO4KZXD78Rd-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSCbUPrruBO4KZXD78Rd-4" value="关键词搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="230" width="70" height="30" as="geometry" />
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-12" value="养生知识学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161.25" y="90" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TSCbUPrruBO4KZXD78Rd-5" value="显示搜索结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="320" width="85" height="30" as="geometry" />
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSCbUPrruBO4KZXD78Rd-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="127.5" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TSCbUPrruBO4KZXD78Rd-6" value="药材分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="230" width="70" height="30" as="geometry" />
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSCbUPrruBO4KZXD78Rd-15" target="TSCbUPrruBO4KZXD78Rd-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="267.5" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TSCbUPrruBO4KZXD78Rd-7" value="显示药材信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="198.25" y="320" width="90" height="30" as="geometry" />
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-15" value="学习方式" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="180" width="72.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="TSCbUPrruBO4KZXD78Rd-8" value="选择具体知识信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="415" width="100" height="25" as="geometry" />
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TSCbUPrruBO4KZXD78Rd-17" target="TSCbUPrruBO4KZXD78Rd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-17" value="关键词搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TSCbUPrruBO4KZXD78Rd-19" target="TSCbUPrruBO4KZXD78Rd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-19" value="显示搜索结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TSCbUPrruBO4KZXD78Rd-21" target="TSCbUPrruBO4KZXD78Rd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-21" value="药材分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TSCbUPrruBO4KZXD78Rd-23" target="TSCbUPrruBO4KZXD78Rd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-23" value="显示药材信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228.25" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-24" value="选择具体知识信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="415" width="100" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
