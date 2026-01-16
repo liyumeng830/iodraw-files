@@ -62,7 +62,7 @@
         <mxCell id="LEPOZYt06eazWOH28EFG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-10" target="LEPOZYt06eazWOH28EFG-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LEPOZYt06eazWOH28EFG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-10" target="LEPOZYt06eazWOH28EFG-15">
+        <mxCell id="LEPOZYt06eazWOH28EFG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LEPOZYt06eazWOH28EFG-10" target="LEPOZYt06eazWOH28EFG-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-10" value="产品详情" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -76,6 +76,9 @@
         </mxCell>
         <mxCell id="LEPOZYt06eazWOH28EFG-15" value="跳转购物车页面" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="167.5" y="540" width="102.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LEPOZYt06eazWOH28EFG-18" value="产品详情" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="422.5" y="430" width="82.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
