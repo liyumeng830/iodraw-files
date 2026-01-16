@@ -53,8 +53,14 @@
         <mxCell id="TSCbUPrruBO4KZXD78Rd-23" value="显示药材信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197.38" y="290" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TSCbUPrruBO4KZXD78Rd-24" target="TSCbUPrruBO4KZXD78Rd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TSCbUPrruBO4KZXD78Rd-24" value="选择具体知识信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="121.25" y="370" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="TSCbUPrruBO4KZXD78Rd-25" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111.25" y="457.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
