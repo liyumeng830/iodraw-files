@@ -23,16 +23,16 @@
           <mxGeometry x="540" y="-34" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-7" value="收货地址" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="658" y="169" width="87" height="34" as="geometry" />
+          <mxGeometry x="650" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-8" value="手机号" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="796" y="169" width="71" height="34" as="geometry" />
+          <mxGeometry x="690" y="46" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-9" value="角色" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="917" y="169" width="55" height="34" as="geometry" />
+          <mxGeometry x="510" y="169" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-10" value="注册时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1023" y="169" width="87" height="34" as="geometry" />
+          <mxGeometry x="550" y="260" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-11" value="最后登录时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="169" width="119" height="34" as="geometry" />
