@@ -100,7 +100,7 @@
         <mxCell id="jwPkBDEzKQU0J4SKQ-GT-14" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349" y="170" width="25" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jwPkBDEzKQU0J4SKQ-GT-15" value="产品订购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jwPkBDEzKQU0J4SKQ-GT-15" value="店铺管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="170" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jwPkBDEzKQU0J4SKQ-GT-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
