@@ -34,8 +34,8 @@
         <mxCell id="WkwoUGMZL7RX2ygaEojz-10" value="注册时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="260" width="87" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-11" value="最后登录时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="169" width="119" height="34" as="geometry" />
+        <mxCell id="WkwoUGMZL7RX2ygaEojz-11" value="更新时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="666" y="-90" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-12" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0;entryX=0.556;entryY=1.029;rounded=0;strokeWidth=1;targetPerimeterSpacing=0;curved=1;startFill=0;endFill=0;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WkwoUGMZL7RX2ygaEojz-1" target="WkwoUGMZL7RX2ygaEojz-2">
           <mxGeometry relative="1" as="geometry" />
