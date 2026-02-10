@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WkwoUGMZL7RX2ygaEojz-1" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="40" width="92" height="49" as="geometry" />
+          <mxGeometry x="310" y="40" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-2" value="&lt;u&gt;用户ID&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WkwoUGMZL7RX2ygaEojz-2" value="用户ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="-60" width="139" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-3" value="用户名" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
