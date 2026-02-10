@@ -37,7 +37,7 @@
         <mxCell id="WkwoUGMZL7RX2ygaEojz-11" value="最后登录时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="169" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-12" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=1;targetPerimeterSpacing=0;curved=1;startFill=0;" edge="1" parent="1" source="WkwoUGMZL7RX2ygaEojz-1" target="WkwoUGMZL7RX2ygaEojz-2">
+        <mxCell id="WkwoUGMZL7RX2ygaEojz-12" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.58;entryX=0.556;entryY=1.029;rounded=0;strokeWidth=1;targetPerimeterSpacing=0;curved=1;startFill=0;endFill=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WkwoUGMZL7RX2ygaEojz-1" target="WkwoUGMZL7RX2ygaEojz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WkwoUGMZL7RX2ygaEojz-1" target="WkwoUGMZL7RX2ygaEojz-3">
