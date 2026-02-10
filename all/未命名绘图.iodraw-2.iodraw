@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WkwoUGMZL7RX2ygaEojz-1" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="330" width="92" height="49" as="geometry" />
+          <mxGeometry x="587" y="70" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-2" value="&lt;u&gt;用户ID&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry y="169" width="139" height="34" as="geometry" />
@@ -37,12 +37,11 @@
         <mxCell id="WkwoUGMZL7RX2ygaEojz-11" value="最后登录时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="169" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;rounded=0;" edge="1" parent="1" source="WkwoUGMZL7RX2ygaEojz-1">
+        <mxCell id="WkwoUGMZL7RX2ygaEojz-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WkwoUGMZL7RX2ygaEojz-1" target="WkwoUGMZL7RX2ygaEojz-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="69" y="144" />
             </Array>
-            <mxPoint x="70" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WkwoUGMZL7RX2ygaEojz-1" target="WkwoUGMZL7RX2ygaEojz-3">
