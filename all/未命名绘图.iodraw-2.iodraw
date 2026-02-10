@@ -8,7 +8,7 @@
           <mxGeometry x="414" y="80" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-2" value="用户ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="161" y="-40" width="99" height="34" as="geometry" />
+          <mxGeometry x="190" y="20" width="99" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-3" value="用户名" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="-40" width="71" height="34" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="451" y="-40" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-6" value="口味偏好" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="521" y="169" width="87" height="34" as="geometry" />
+          <mxGeometry x="540" y="-34" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-7" value="收货地址" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="658" y="169" width="87" height="34" as="geometry" />
