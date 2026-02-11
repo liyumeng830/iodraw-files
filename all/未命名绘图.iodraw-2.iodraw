@@ -4,69 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-1" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="347" y="100" width="108" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-2" value="管理员ID" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="90" y="51" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-3" value="权限" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="202" y="199" width="62" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-4" value="账号" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="314" y="199" width="62" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-5" value="角色" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="426" y="199" width="62" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-6" value="密码" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="538" y="199" width="62" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-7" value="姓名" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="650" y="199" width="62" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhacJE2Dboq6uJzx7yuf-1" target="NhacJE2Dboq6uJzx7yuf-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="106" y="174" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NhacJE2Dboq6uJzx7yuf-1" target="NhacJE2Dboq6uJzx7yuf-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="233" y="174" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NhacJE2Dboq6uJzx7yuf-1" target="NhacJE2Dboq6uJzx7yuf-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="345" y="174" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NhacJE2Dboq6uJzx7yuf-1" target="NhacJE2Dboq6uJzx7yuf-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="457" y="174" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NhacJE2Dboq6uJzx7yuf-1" target="NhacJE2Dboq6uJzx7yuf-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="569" y="174" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhacJE2Dboq6uJzx7yuf-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NhacJE2Dboq6uJzx7yuf-1" target="NhacJE2Dboq6uJzx7yuf-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="681" y="174" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
