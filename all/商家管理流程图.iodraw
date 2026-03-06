@@ -151,7 +151,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-32" value="价格更新" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="443.25" y="485" width="77.5" height="25" as="geometry" />
+          <mxGeometry x="443.25" y="489" width="77.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480.75" y="456.5" width="40" height="30" as="geometry" />
