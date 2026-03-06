@@ -96,9 +96,6 @@
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-7" value="审核通过" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="91.88" y="457.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w-B6hB2TvIBE-n7B9kDf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-B6hB2TvIBE-n7B9kDf-9" target="w-B6hB2TvIBE-n7B9kDf-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-9" value="商品发布" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="96.25999999999999" y="518" width="71.25" height="25" as="geometry" />
         </mxCell>
@@ -115,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-15" value="操作完成" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="332.75" y="550" width="71.25" height="25" as="geometry" />
+          <mxGeometry x="334" y="585" width="71.25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-B6hB2TvIBE-n7B9kDf-17" target="w-B6hB2TvIBE-n7B9kDf-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -143,14 +140,6 @@
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-30" value="审核通过" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="340" width="82.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w-B6hB2TvIBE-n7B9kDf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-B6hB2TvIBE-n7B9kDf-32" target="w-B6hB2TvIBE-n7B9kDf-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="608" y="530" />
-              <mxPoint x="368" y="530" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-32" value="价格更新" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="567.5" y="435" width="77.5" height="25" as="geometry" />
