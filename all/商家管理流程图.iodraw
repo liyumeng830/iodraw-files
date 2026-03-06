@@ -67,14 +67,14 @@
         <mxCell id="9SBtlfOOW1ugrIBFxhz9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-B6hB2TvIBE-n7B9kDf-2" target="w-B6hB2TvIBE-n7B9kDf-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="313" y="300" />
-              <mxPoint x="313" y="469" />
+              <mxPoint x="320" y="300" />
+              <mxPoint x="320" y="469" />
               <mxPoint x="293" y="469" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-2" value="管理现有商品" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="280" width="115" height="40" as="geometry" />
+          <mxGeometry x="324" y="280" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-B6hB2TvIBE-n7B9kDf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-B6hB2TvIBE-n7B9kDf-3" target="w-B6hB2TvIBE-n7B9kDf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
