@@ -73,11 +73,14 @@
         <mxCell id="7r81z4ItSBlcsOaPH64T-14" value="填写收货地址" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="197.5" y="490" width="82.5" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="7r81z4ItSBlcsOaPH64T-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7r81z4ItSBlcsOaPH64T-16" target="7r81z4ItSBlcsOaPH64T-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7r81z4ItSBlcsOaPH64T-16" value="支付是否成功" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="540" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7r81z4ItSBlcsOaPH64T-18" value="搜索产品" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="510" width="82.5" height="25" as="geometry" />
+          <mxGeometry x="193.75" y="600" width="82.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
