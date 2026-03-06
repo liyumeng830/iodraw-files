@@ -80,7 +80,7 @@
           <mxGeometry x="180" y="540" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7r81z4ItSBlcsOaPH64T-18" value="生成订单" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="193.75" y="600" width="82.5" height="25" as="geometry" />
+          <mxGeometry x="195" y="610" width="82.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
