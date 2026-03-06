@@ -1,42 +1,13 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ZCwEBhtZkNSn8P2WntDr">
-    <mxGraphModel dx="1000" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-4" value="密码" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-40" width="55" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-5" value="体质" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="451" y="-40" width="55" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-6" value="口味偏好" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="540" y="-34" width="87" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-9" value="角色" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="595" y="-90" width="55" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-11" value="更新时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="666" y="-90" width="119" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="WkwoUGMZL7RX2ygaEojz-12" value="" style="startArrow=none;endArrow=none;entryX=0.556;entryY=1.029;rounded=0;strokeWidth=1;targetPerimeterSpacing=0;curved=1;startFill=0;endFill=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="80" as="sourcePoint" />
             <mxPoint x="275.0440000000001" y="54.986000000000104" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-13" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;endFill=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="80" as="sourcePoint" />
-            <mxPoint x="315.5" y="-6" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WkwoUGMZL7RX2ygaEojz-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.51;entryY=-0.01;rounded=0;" parent="1" target="WkwoUGMZL7RX2ygaEojz-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="338" y="144" />
-            </Array>
-            <mxPoint x="414" y="111.84999999999991" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
