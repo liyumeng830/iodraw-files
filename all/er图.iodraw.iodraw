@@ -109,7 +109,7 @@
           <mxGeometry x="142.5" y="190" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-38" value="药食同源产品" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="190" y="270" width="62.5" height="30" as="geometry" />
+          <mxGeometry x="190" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-45" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-40" target="pda4hswobt_ifIS5eJ-7-38">
           <mxGeometry relative="1" as="geometry" />
@@ -126,7 +126,7 @@
         <mxCell id="pda4hswobt_ifIS5eJ-7-43" value="适宜人群" style="ellipse;whiteSpace=wrap;html=1;textShadow=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="240" y="190" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="pda4hswobt_ifIS5eJ-7-44" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.885;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-43" target="pda4hswobt_ifIS5eJ-7-38">
+        <mxCell id="pda4hswobt_ifIS5eJ-7-44" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.393;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-43" target="pda4hswobt_ifIS5eJ-7-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
