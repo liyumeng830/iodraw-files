@@ -16,6 +16,9 @@
         <mxCell id="pda4hswobt_ifIS5eJ-7-8" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="210" width="70" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="pda4hswobt_ifIS5eJ-7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-9" target="pda4hswobt_ifIS5eJ-7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-9" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="75" width="70" height="35" as="geometry" />
         </mxCell>
