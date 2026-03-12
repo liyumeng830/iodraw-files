@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pda4hswobt_ifIS5eJ-7-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-1" target="pda4hswobt_ifIS5eJ-7-3">
+        <mxCell id="pda4hswobt_ifIS5eJ-7-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-1" target="pda4hswobt_ifIS5eJ-7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-1" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-3" value="用户" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="150" y="120" width="62.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pda4hswobt_ifIS5eJ-7-5" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
