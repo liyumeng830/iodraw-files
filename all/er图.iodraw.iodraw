@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-3" value="搜索产品" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="370" y="310" width="82.5" height="25" as="geometry" />
+          <mxGeometry x="140" y="120" width="62.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
