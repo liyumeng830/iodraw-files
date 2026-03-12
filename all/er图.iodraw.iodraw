@@ -100,7 +100,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pda4hswobt_ifIS5eJ-7-36" value="查看" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="pda4hswobt_ifIS5eJ-7-36" value="购买" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="142.5" y="190" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
