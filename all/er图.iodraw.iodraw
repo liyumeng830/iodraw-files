@@ -10,7 +10,7 @@
         <mxCell id="pda4hswobt_ifIS5eJ-7-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-6" target="pda4hswobt_ifIS5eJ-7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pda4hswobt_ifIS5eJ-7-6" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pda4hswobt_ifIS5eJ-7-6" value="用户名" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="100" y="30" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-9" target="pda4hswobt_ifIS5eJ-7-3">
