@@ -60,6 +60,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pda4hswobt_ifIS5eJ-7-121" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="pda4hswobt_ifIS5eJ-7-47">
+          <mxGeometry x="0.3455" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-20" value="养生知识" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="62.5" height="30" as="geometry" />
         </mxCell>
@@ -119,7 +124,7 @@
         <mxCell id="pda4hswobt_ifIS5eJ-7-118" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-38" target="pda4hswobt_ifIS5eJ-7-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pda4hswobt_ifIS5eJ-7-120" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="pda4hswobt_ifIS5eJ-7-118">
+        <mxCell id="pda4hswobt_ifIS5eJ-7-120" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="pda4hswobt_ifIS5eJ-7-118">
           <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
