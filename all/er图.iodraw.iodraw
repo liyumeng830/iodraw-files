@@ -292,7 +292,7 @@
           <mxGeometry x="922.5" y="690" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-252" value="..." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="695" width="70" height="35" as="geometry" />
+          <mxGeometry x="810" y="690" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-255" value="订单" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="370" y="220" width="62.5" height="30" as="geometry" />
@@ -404,9 +404,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ca0YMeFnr5uiLCZzH-p4-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.685;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-199" target="pda4hswobt_ifIS5eJ-7-201">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ca0YMeFnr5uiLCZzH-p4-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-238" target="pda4hswobt_ifIS5eJ-7-238">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
