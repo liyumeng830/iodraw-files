@@ -229,10 +229,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-224" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="486.25" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="pda4hswobt_ifIS5eJ-7-225" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="pda4hswobt_ifIS5eJ-7-226" target="pda4hswobt_ifIS5eJ-7-222" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1280" y="477.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-226" value="管理员ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1200" y="512.5" width="70" height="35" as="geometry" />
@@ -244,7 +241,7 @@
           <mxGeometry x="1370" y="556.25" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-229" value="权限" style="ellipse;whiteSpace=wrap;html=1;textShadow=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1337.5" y="380" width="70" height="35" as="geometry" />
+          <mxGeometry x="1350" y="501.25" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-230" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.885;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="pda4hswobt_ifIS5eJ-7-229" target="pda4hswobt_ifIS5eJ-7-222" edge="1">
           <mxGeometry relative="1" as="geometry" />
