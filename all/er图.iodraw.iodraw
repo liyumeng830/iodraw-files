@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-208" value="包含" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="870" y="160" width="60" height="35" as="geometry" />
+          <mxGeometry x="817.5" y="217.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-209" value="知识分类" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="982.5" y="150" width="62.5" height="30" as="geometry" />
