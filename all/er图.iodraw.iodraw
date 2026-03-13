@@ -416,8 +416,8 @@
         <mxCell id="Ca0YMeFnr5uiLCZzH-p4-20" value="包含" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="770" y="467.5" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Ca0YMeFnr5uiLCZzH-p4-30" value="查看" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="750" y="490" width="60" height="35" as="geometry" />
+        <mxCell id="Ca0YMeFnr5uiLCZzH-p4-30" value="包含" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="493.75" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
