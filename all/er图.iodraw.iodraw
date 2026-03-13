@@ -78,6 +78,9 @@
             <mxPoint x="-13" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ca0YMeFnr5uiLCZzH-p4-72" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pda4hswobt_ifIS5eJ-7-181" target="pda4hswobt_ifIS5eJ-7-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-181" value="养生知识" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="830" y="360" width="62.5" height="30" as="geometry" />
         </mxCell>
@@ -177,13 +180,13 @@
           <mxGeometry x="780" y="275" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-209" value="知识分类" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="907.5" y="200" width="62.5" height="30" as="geometry" />
+          <mxGeometry x="867.5" y="230" width="62.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-210" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="pda4hswobt_ifIS5eJ-7-211" target="pda4hswobt_ifIS5eJ-7-209" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-211" value="分类名称" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="145" width="70" height="35" as="geometry" />
+          <mxGeometry x="840" y="180" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-212" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="pda4hswobt_ifIS5eJ-7-213" target="pda4hswobt_ifIS5eJ-7-209" edge="1">
           <mxGeometry relative="1" as="geometry" />
