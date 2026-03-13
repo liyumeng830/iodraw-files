@@ -288,7 +288,7 @@
           <mxGeometry x="1040" y="643.75" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-246" value="店铺名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="660" width="70" height="35" as="geometry" />
+          <mxGeometry x="965" y="660" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-247" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="pda4hswobt_ifIS5eJ-7-249" target="pda4hswobt_ifIS5eJ-7-242" edge="1">
           <mxGeometry relative="1" as="geometry" />
