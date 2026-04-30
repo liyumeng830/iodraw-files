@@ -80,7 +80,7 @@
             <mxPoint x="237.5" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7r81z4ItSBlcsOaPH64T-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="7r81z4ItSBlcsOaPH64T-24" edge="1">
+        <mxCell id="7r81z4ItSBlcsOaPH64T-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HilTKolvUkgr4_UiMAnG-0" target="7r81z4ItSBlcsOaPH64T-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="560" as="sourcePoint" />
           </mxGeometry>
@@ -107,7 +107,7 @@
           <mxGeometry x="196.25" y="660" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HilTKolvUkgr4_UiMAnG-0" value="填写收货地址" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="560" width="82.5" height="25" as="geometry" />
+          <mxGeometry x="197.5" y="545" width="82.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
