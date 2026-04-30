@@ -106,6 +106,9 @@
             <mxPoint x="238.75" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-Vd9eM8-brg0GTLUgn1Y-32" value="浏览方式" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="560" width="115" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
