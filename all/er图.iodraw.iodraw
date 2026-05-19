@@ -368,14 +368,9 @@
             <mxPoint x="251" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pda4hswobt_ifIS5eJ-7-303" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="pda4hswobt_ifIS5eJ-7-302" vertex="1" connectable="0">
-          <mxGeometry x="0.0684" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bS3vrVz4JmXJpyKl1FVZ-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pda4hswobt_ifIS5eJ-7-302">
+        <mxCell id="bS3vrVz4JmXJpyKl1FVZ-2" value="`1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pda4hswobt_ifIS5eJ-7-302">
           <mxGeometry x="0.0885" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pda4hswobt_ifIS5eJ-7-284" value="创造" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
